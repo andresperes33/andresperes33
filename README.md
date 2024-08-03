@@ -11,7 +11,7 @@ Desenvolvedor Front-End apaixonado por criar interfaces incríveis e experiênci
 - ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ### 📫 Como me encontrar:
-- [LinkedIn](https://www.linkedin.com/in/andre-da-silva-peres/)
+- [LinkedIn](www.linkedin.com/in/andresperes33/)
 - [Portfólio](https://seu-portfolio.com)
 
 Estou sempre aberto a novas oportunidades e colaborações interessantes. Vamos conectar e construir algo incrível juntos!

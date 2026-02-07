@@ -1,6 +1,8 @@
 # 👋 Olá, eu sou André da Silva Peres
 
-Desenvolvedor Back-End apaixonado por criar sistemas robustos e APIs eficientes. Tenho experiência em Python, Django, Django REST Framework, PostgreSQL, MySQL, Redis, Celery, Git e GitHub. Estou sempre em busca de novas tecnologias e maneiras de aprimorar minhas habilidades.
+Desenvolvedor Back-End focado na criação de sistemas escaláveis, seguros e APIs de alta performance. Possuo experiência sólida com Python, Django, Django REST Framework e bancos de dados relacionais como PostgreSQL e MySQL, além de trabalhar com Redis e Celery para processamento assíncrono.
+
+Tenho familiaridade com versionamento usando Git e GitHub e sigo boas práticas de arquitetura, organização de código e documentação. Estou sempre estudando novas tecnologias e buscando evoluir tecnicamente para construir soluções cada vez mais eficientes e bem estruturadas.
 ## 🌟 Tecnologias que eu domino:
 
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)

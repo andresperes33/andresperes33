@@ -1,9 +1,11 @@
 # 👋 Olá, eu sou André da Silva Peres
-Desenvolvedor Back-End focado na criação de sistemas escaláveis, seguros e APIs de alta performance. Possuo experiência sólida com Python, Django, Django REST Framework e bancos de dados relacionais como PostgreSQL e MySQL, além de trabalhar com Redis e Celery para processamento assíncrono.
+Desenvolvedor Back-End especializado na criação de sistemas escaláveis, seguros e APIs de alta performance. Possuo experiência sólida com Python, Django, Django REST Framework e bancos de dados relacionais como PostgreSQL e MySQL, além de trabalhar com Redis e Celery para processamento assíncrono e aplicações orientadas a desempenho.
 
-Também domino HTML, CSS e JavaScript, o que me permite entender e colaborar com o front-end, criar interfaces funcionais e integrar aplicações completas de ponta a ponta.
+Atuo também como especialista em automações com Inteligência Artificial, desenvolvendo agentes, fluxos e integrações inteligentes para atendimento, qualificação de leads e otimização de processos. Utilizo LangChain e Agno na construção de soluções com LLMs, memória contextual, busca em documentos e integrações com diferentes plataformas.
 
-Tenho familiaridade com versionamento usando Git e GitHub e sigo boas práticas de arquitetura, organização de código e documentação. Estou sempre estudando novas tecnologias e buscando evoluir tecnicamente para desenvolver soluções cada vez mais eficientes, performáticas e bem estruturadas.
+Domino HTML, CSS e JavaScript, o que me permite compreender o front-end, colaborar na construção de interfaces e desenvolver aplicações completas de ponta a ponta.
+
+Tenho familiaridade com versionamento usando Git e GitHub e sigo boas práticas de arquitetura, organização de código e documentação. Estou em constante evolução técnica, estudando novas tecnologias e aplicando soluções modernas para criar sistemas eficientes, bem estruturados e preparados para escala.
 ## 🌟 Tecnologias que eu domino:
 
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
